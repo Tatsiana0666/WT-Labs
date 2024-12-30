@@ -1,0 +1,37 @@
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.deps.json
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.dll
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.pdb
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.csproj.AssemblyReference.cache
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.AssemblyInfoInputs.cache
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.AssemblyInfo.cs
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.csproj.CoreCompileInputs.cache
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.dll
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\refint\WebTechLabs.DAL.dll
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.pdb
+D:\Freelance\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\ref\WebTechLabs.DAL.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.deps.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.pdb
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.csproj.AssemblyReference.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.AssemblyInfoInputs.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.AssemblyInfo.cs
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.csproj.CoreCompileInputs.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\refint\WebTechLabs.DAL.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.pdb
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\ref\WebTechLabs.DAL.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.deps.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\bin\Debug\net8.0\WebTechLabs.DAL.pdb
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.csproj.AssemblyReference.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.AssemblyInfoInputs.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.AssemblyInfo.cs
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.csproj.CoreCompileInputs.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.sourcelink.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\refint\WebTechLabs.DAL.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\WebTechLabs.DAL.pdb
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.DAL\obj\Debug\net8.0\ref\WebTechLabs.DAL.dll

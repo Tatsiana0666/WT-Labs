@@ -1,0 +1,68 @@
+﻿@model ListViewModel<Dish>
+
+@{
+    ViewData["Title"] = "Меню";
+
+    var categories = ViewData["Groups"] as IEnumerable<DishGroup>;
+    int currentGroup = (int)ViewData["CurrentGroup"];
+
+    var text = currentGroup != 0
+    ? categories
+    .FirstOrDefault(g => g.DishGroupId == currentGroup)?
+    .GroupName
+    : "Все";
+
+}
+
+<div class="row">
+    <div class="col-2">
+
+        @{
+            int? route = currentGroup == 0 ? null : currentGroup;
+        }
+
+        <div class="btn-group mt-2">
+            <a class="btn btn-secondary"
+                asp-route-group="@route"
+               asp-route-pageNo="1"
+               asp-action="Index" asp-controller="Product"
+               aria-haspopup="true" aria-expanded="false">
+                @text
+            </a>
+            <button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+                <span class="visually-hidden">Toggle Dropdown</span>
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <a class="dropdown-item"
+                       asp-action="Index"
+                       asp-controller="Product"
+                       asp-route-pageNo="1">Все</a>
+                </li>
+                @foreach (var item in categories)
+                {
+                    <li><a class="dropdown-item"
+                       asp-action="Index"
+                       asp-controller="Product"
+                       asp-route-group="@item.DishGroupId"
+                       asp-route-pageNo="1">@item.GroupName</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+    <div class="col-10">
+        <div clas="container">
+            <div class="row m-0 mt-2" id="list">
+            <partial name="_ListPartial" model="@Model" />
+        </div>
+        <div class="row mt-2">
+                <pager page-current="@Model.CurrentPage"
+                       page-total="@Model.TotalPages"
+                       action="Index"
+                       controller="Product"
+                       group-id="@currentGroup">
+                </pager>
+        </div>
+        </div>
+    </div>
+</div>

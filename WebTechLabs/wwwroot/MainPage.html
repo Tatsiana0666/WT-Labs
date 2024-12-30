@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="lib/font-awesome/css/all.css" rel="stylesheet" />
+    <link href="css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">WebLabs</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="/MainPage.html">Лб1</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Каталог</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Администрирование</a>
+                            </li>
+                        </ul>
+                        <a href="#" class="navbar-text">
+                            00,0 руб <i class="fas fa-shopping-cart nav-color"></i> (0)
+                        </a>
+                        <ul class="d-flex navbar-nav mb-2 mb-lg-0">
+                            <li class="navbar-text">
+
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <img src="images/avatar.jpg" width="30" class="rounded" />
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <li><a class="dropdown-item">
+                                        <img src="images/avatar.jpg" width="50" class="rounded" />
+                                        user@mail.ru
+                                    </a></li>
+                                    
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="#">Мои товары</a></li>
+                                    <li><a class="dropdown-item" href="#">Log off</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main class="container">
+        <div class="row mt-2">
+            <h3>Лабораторная работа №1</h3>
+            <h4 class="mt-2">Список</h4>
+            <div>
+                <ol type="A">
+                    <li>Элемент 1 списка</li>
+                    <li>Элемент 2 списка</li>
+                </ol>
+            </div>
+
+        </div>
+        <hr />
+        <div class="row">
+            <h4 class="mt-2">Форма</h4>
+            <form>
+                <fieldset>
+                    <div class="row">
+                        <div class="col-6">
+                        </div>
+                        <div class="col-6">
+                            <div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="checkb1">
+                                    <label class="form-check-label" for="checkb1">
+                                        Чек-бокс 1
+                                    </label>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="checkb2">
+                                    <label class="form-check-label" for="checkb2">
+                                        Чек-бокс 2
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <div class="form-check me-3">
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" checked>
+                                    <label class="form-check-label" for="flexRadioDefault1">
+                                        Радио-1
+                                    </label>
+                                </div>
+                                <div class="form-check me-3">
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+                                    <label class="form-check-label" for="flexRadioDefault2">
+                                        Радио-2
+                                    </label>
+                                </div>
+                                <div class="form-check me-3">
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault3">
+                                    <label class="form-check-label" for="flexRadioDefault3">
+                                        Радио-3
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="mb-3">
+                                <label for="exampleInputLogin1" class="form-label">Логин</label>
+                                <input type="text" class="form-control" id="exampleInputLogin1" placeholder="Введите имя" aria-describedby="LoginHelp">
+                            </div>
+                            <div class="mb-3">
+                                <label for="exampleInputPassword1" class="form-label">Пароль</label>
+                                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Введите пароль" aria-describedby="PasswordHelp">
+                            </div>
+                            <button class="btn btn-primary">Отправить</button>
+                        </div>
+                        <div class="col-6">
+
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </main>
+    <footer class="fixed-bottom">
+        <div class="container">
+            <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://www.facebook.com">
+                            <i class="fa-brands fa-facebook-f fa-2x"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://www.vk.com">
+                            <i class="fa-brands fa-vk fa-2x"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://www.twitter.com">
+                            <i class="fa-brands fa-twitter fa-2x"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="js/site.js"></script>
+</body>
+</html>

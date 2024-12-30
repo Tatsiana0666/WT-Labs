@@ -1,0 +1,51 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using WebTechLabs.DAL.Entities
+@inject SignInManager<ApplicationUser> signInManager
+
+@if (signInManager.IsSignedIn(User))
+{
+    @await Component.InvokeAsync("Cart")
+    <ul class="d-flex navbar-nav mb-2 mb-lg-0">
+        <li class="navbar-text">
+
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img img-action="GetAvatar"
+                     img-controller="Image"
+                     width="30" alt="User"
+                     class="rounded bg-light" />
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                    <a class="dropdown-item">
+                        <img img-action="GetAvatar"
+                             img-controller="Image"
+                             width="30" alt="User"
+                             class="rounded bg-light" />
+                        @User.Identity?.Name
+                    </a>
+                </li>
+
+                <li><hr class="dropdown-divider"></li>
+                <li>
+                    <a class="dropdown-item" asp-controller="Cart" asp-action="Index">Мои товары</a>
+                </li>
+                <li>
+                    <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnurl="@ViewContext.HttpContext.Request.Path">Log off</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+}
+else
+{
+    <ul class="d-flex navbar-nav mb-2 mb-lg-0">
+        <li class="nav-item">
+            <a class="nav-link" asp-area="Identity" asp-page="/Account/Login">Войти</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-area="Identity" asp-page="/Account/Register">Зарегистрироваться</a>
+        </li>
+    </ul>
+}

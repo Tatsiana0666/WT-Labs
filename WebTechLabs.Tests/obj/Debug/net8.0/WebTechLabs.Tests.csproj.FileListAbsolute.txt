@@ -1,0 +1,1087 @@
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WebTechLabs.Tests
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\testhost.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.deps.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.runtimeconfig.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\appsettings.Development.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\appsettings.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\libman.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.staticwebassets.runtime.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.exe
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\testhost.exe
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.deps.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.runtimeconfig.json
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.pdb
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Azure.Core.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Azure.Identity.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Humanizer.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Common.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.CodeDom.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.assert.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.core.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.DAL.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.DAL.pdb
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.pdb
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.AssemblyReference.cache
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.AssemblyInfoInputs.cache
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.AssemblyInfo.cs
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.CoreCompileInputs.cache
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.CopyComplete
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\refint\WebTechLabs.Tests.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.pdb
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.genruntimeconfig.cache
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\ref\WebTechLabs.Tests.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Moq.dll
+D:\Freelance\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WebTechLabs.Tests
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\appsettings.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\libman.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\testhost.exe
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\testhost.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.deps.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.runtimeconfig.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.staticwebassets.runtime.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.exe
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.deps.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.runtimeconfig.json
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.pdb
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Azure.Core.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Azure.Identity.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Humanizer.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Build.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Moq.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Common.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.CodeDom.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.assert.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.core.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.DAL.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.DAL.pdb
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.pdb
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.AssemblyReference.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.AssemblyInfoInputs.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.AssemblyInfo.cs
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.CoreCompileInputs.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.CopyComplete
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\refint\WebTechLabs.Tests.dll
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.pdb
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.genruntimeconfig.cache
+C:\!_Helloween_!\!_БГУиР_!\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\ref\WebTechLabs.Tests.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WebTechLabs.Tests
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\appsettings.Development.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\appsettings.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\libman.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\testhost.exe
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\testhost.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.deps.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.runtimeconfig.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.staticwebassets.runtime.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.exe
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.deps.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.runtimeconfig.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.Tests.pdb
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Azure.Core.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Azure.Identity.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Castle.Core.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Humanizer.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Build.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Moq.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Common.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.CodeDom.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.assert.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.core.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.DAL.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.DAL.pdb
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\bin\Debug\net8.0\WebTechLabs.pdb
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.AssemblyReference.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.AssemblyInfoInputs.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.AssemblyInfo.cs
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.csproj.CoreCompileInputs.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.sourcelink.json
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechL.E98061DD.Up2Date
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\refint\WebTechLabs.Tests.dll
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.pdb
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\WebTechLabs.Tests.genruntimeconfig.cache
+D:\БГУИР ПОИС\4 сессия\Web-технологии\WebTechLabs\WebTechLabs\WebTechLabs.Tests\obj\Debug\net8.0\ref\WebTechLabs.Tests.dll
